@@ -7,12 +7,12 @@
   "theme_color": "#9a1104",
   "icons": [
     {
-      "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/refs/heads/main/icon-192.png",
+      "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/main/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/refs/heads/main/icon-512.png",
+      "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/main/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
