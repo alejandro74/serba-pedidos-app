@@ -7,7 +7,7 @@
   "theme_color": "#9a1104",
   "icons": [
     {
-      "src": "https://TU-ICONO-192.png",
+      "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/refs/heads/main/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
