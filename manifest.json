@@ -1,0 +1,20 @@
+{
+  "name": "Pedidos Serba",
+  "short_name": "Serba",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#9a1104",
+  "icons": [
+    {
+      "src": "https://TU-ICONO-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://TU-ICONO-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
