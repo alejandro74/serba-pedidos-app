@@ -3,7 +3,7 @@
   "short_name": "Serba",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#c33e30",
   "theme_color": "#9a1104",
   "icons": [
     {
