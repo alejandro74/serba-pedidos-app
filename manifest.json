@@ -3,8 +3,8 @@
   "short_name": "Serba",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#c33e30",
-  "theme_color": "#9a1104",
+  "background_color": "#e52a28",
+  "theme_color": "#e52a28",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/alejandro74/serba-pedidos-app/main/icon-192.png",
